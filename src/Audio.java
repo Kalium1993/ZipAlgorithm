@@ -16,7 +16,7 @@ public class Audio extends File{
 		System.out.println("Codec: " + codec);
 		System.out.println("Duration: " + duration);
 		System.out.println("Audio compression done");
-		compressionMethod.CompressionMethod();
+		compressionMethod.compressionMethod();
 	}
 
 }

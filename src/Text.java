@@ -12,7 +12,7 @@ public class Text extends File{
 		System.out.println("Size: " + getSize() + "kb");
 		System.out.println("Font Size: " + fontSize);
 		System.out.println("Text compression done");
-		compressionMethod.CompressionMethod();
+		compressionMethod.compressionMethod();
 	}
 
 }

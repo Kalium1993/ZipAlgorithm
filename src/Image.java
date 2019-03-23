@@ -16,6 +16,6 @@ public class Image extends File{
 		System.out.println("Width: " + width + "px");
 		System.out.println("Height: " + height + "px");
 		System.out.println("Image compression done");
-		compressionMethod.CompressionMethod();
+		compressionMethod.compressionMethod();
 	}
 }

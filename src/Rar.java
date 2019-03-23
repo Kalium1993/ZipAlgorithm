@@ -1,6 +1,6 @@
 
 public class Rar implements Compression{
-	public void CompressionMethod() {
+	public void compressionMethod() {
 		System.out.println("Compressed with rar");
 		System.out.println("");
 	}

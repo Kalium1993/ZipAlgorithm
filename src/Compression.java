@@ -1,4 +1,4 @@
 
 public interface Compression {
-	public void CompressionMethod();
+	public void compressionMethod();
 }
